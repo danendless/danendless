@@ -25,8 +25,11 @@ I bring together analytical thinking, technical problem-solving, and clear commu
 
 ---
 
-| Project Name | Link | Tools | Comments |
-|---|---|---|---|
-| Industrial Process Temperature Prediction | [TT-Sprint17-FINAL-PROJECT](https://github.com/danendless/TT-Sprint17-FINAL-PROJECT) | Python, SKLearn, | |
-| Insurance Analytics & Privacy-Preserving Data Transformation | | | |
-| Chicago Taxi Market & Weather Analysis | | | |
+# **Portfolio**
+
+| Project Name | Link | Applied Tools | Applied Skills | Description |
+|---|---|---|---|---|
+| Industrial Process Temperature Prediction | [TT-Sprint17-FINAL-PROJECT](https://github.com/danendless/TT-Sprint17-FINAL-PROJECT) | Python, pandas, NumPy, scikit-learn, CatBoost, LightGBM, Matplotlib, Seaborn, Jupyter Notebook, Conda. | Data Cleaning, Exploratory Data Analysis (EDA), Time-Aware Feature Engineering, Data Integration, Regression Modeling, Hyperparameter Tuning, Cross-Validation, Model Evaluation, Data Visualization. | Developed a machine learning prototype to predict molten steel temperatures, integrating industrial process data and time-aware feature engineering. Achieved a 59% reduction in prediction error (MAE) compared with a persistence baseline. |
+| Oil Well Profitability & Risk Analysis | [TT-Sprint10-Project](https://github.com/danendless/TT-Sprint10-Project) | Python, pandas, NumPy, scikit-learn, Matplotlib, Jupyter Notebook, Conda | Data Audit, Regression Modeling, Bootstrapping, Data Visualization | Developed Linear Regression models that predict oil volume of potential oil well locations based on geological data for three geographical regions. Used bootstrapping technique to simulate the probability of financial loss for each model and region. Achieved 1.5% loss probability with a 0.0038 Monte Carlo standard error. |
+| Insurance Analytics & Privacy-Preserving Data Transformation | [TT-Sprint11-Project](https://github.com/danendless/TT-Sprint11-Project) | | | |
+| Chicago Taxi Market & Weather Analysis | [TT-Sprint13-Project](https://github.com/danendless/TT-Sprint13-Project) | | | |
